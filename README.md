@@ -22,7 +22,7 @@ Please put the training data in data/.
 
 ## Overview
 
-![[assets/ReNIO_overview.png]]
+![](assets/ReNIO_overview.png)
 
 ## Training
 
