@@ -20,6 +20,10 @@ For Coding task, the data can be download from [here](https://huggingface.co/dat
 
 Please put the training data in data/.
 
+## Overview
+
+![[assets/ReNIO_overview.png]]
+
 ## Training
 
 We provide the training shells in scripts/, change the `model_name_or_path` to your real model path to use them.
